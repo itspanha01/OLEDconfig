@@ -1,11 +1,24 @@
+# 7 pins OLED Screen Configuration
+
 This is the just 'How to do it on your own' guide. The codes are simply in this repo which you can simply just use to upload immediately if you already have everything setup!
 
 ---
 # 1. Connect the Wires
 ### Wiring Diagram
+
 ![alt text](image.png)
-![alt text](images/Drawing 2026-04-02 22.49.39.excalidraw)
-(Open the `.md` Double click on the image to interact)
+![alt text](image-2.png)
+(Open the `Setup.md` in Obsidian and Double click on the image to interact)
+
+```
+GND --> GND Rail
+VDD --> 3v3 Rail
+SLK --> G18
+SDA --> G23
+RES --> G4
+DC --> G2
+CS --> G5
+```
 
 ## Key-term Similarities
 - VDD = 3v3 or 5V (use 3v3 to be safe)
