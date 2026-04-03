@@ -13,7 +13,7 @@ This is the just 'How to do it on your own' guide. The codes are simply in this 
 ```
 GND --> GND Rail
 VDD --> 3v3 Rail
-SLK --> G18
+SCK --> G18
 SDA --> G23
 RES --> G4
 DC --> G2
