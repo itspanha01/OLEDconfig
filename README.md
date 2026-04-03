@@ -6,8 +6,8 @@ This is the just 'How to do it on your own' guide. The codes are simply in this 
 # 1. Connect the Wires
 ### Wiring Diagram
 
-![alt text](image.png)
-![alt text](image-2.png)
+![alt text](images/image.png)
+![alt text](images/image-2.png)
 (Open the `Setup.md` in Obsidian and Double click on the image to interact)
 
 ```
