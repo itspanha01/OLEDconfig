@@ -5,14 +5,8 @@ This is the just 'How to do it on your own' guide. The codes are simply in this 
 ---
 # 1. Connect the Wires
 ### Wiring Diagram
-
-<<<<<<< HEAD
 ![alt text](images/Diagram.svg)
 ![alt text](images/7_pins.svg)
-=======
-![alt text](images/image.png)
-![alt text](images/image-2.png)
->>>>>>> 7a30c557ec1ca556d37a2242426cbb332b6b3f20
 
 (Open the `Setup.md` in Obsidian and Double click on the image to interact)
 
